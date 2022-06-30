@@ -1,0 +1,1 @@
+console.log('My name is Kimberly, I am 5.8 feet tall and I live in Kenya')
